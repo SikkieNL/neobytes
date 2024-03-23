@@ -1,5 +1,5 @@
-NeoBytes core v0.12.1.3
-=======================
+NeoBytes core v0.12.1
+=====================
 
 https://www.neobytes.network
 
